@@ -1,0 +1,30 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "Free Code Camp File Metadata Microservice Challenge.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aclbros/file-metadata.git"
+  },
+  "keywords": [
+    "fullstack",
+    "node",
+    "express",
+    "multer"
+  ],
+  "author": "aclbros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aclbros/file-metadata/issues"
+  },
+  "homepage": "https://github.com/aclbros/file-metadata#readme",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "multer": "^1.1.0"
+  }
+}
